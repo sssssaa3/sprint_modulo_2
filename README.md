@@ -1,1 +1,2 @@
 # Integrantes 
+- Sebastian Salas
